@@ -5,6 +5,7 @@ public class loopRun {
 	public static void main(String[] args) {
 		
 		forExample forex = new forExample();
+		WhileExample wh = new WhileExample();
 	//	forex.ex1();
 	//	forex.ex2();
 		//forex.ex3();
@@ -16,7 +17,10 @@ public class loopRun {
 		//forex.ex8();
 		//forex.ex9();
 		//forex.ex10();
-		forex.ex11();
+		//forex.ex11();
+		//wh.ex12();
+		//wh.ex13();
+		wh.ex14();
 	}
 
 }
