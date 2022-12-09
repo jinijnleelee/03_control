@@ -20,7 +20,8 @@ public class loopRun {
 		//forex.ex11();
 		//wh.ex12();
 		//wh.ex13();
-		wh.ex14();
+		//wh.ex14();
+		wh.ex15();
 	}
 
 }

@@ -127,7 +127,27 @@ public class WhileExample {
 		
 		
 	}
+	public void ex15() {   
+		
+		Scanner sc = new Scanner(System.in);
+		
+		int input = 0;
+		int sum = 0;
+	// do ~ while
+	//	최소 한번은 수행하는 반복문
+		do {
+			System.out.println("점수 : ");
+			input = sc.nextInt();
+			
+			sum += input;
+		}while(input !=0);
+		
+		System.out.println("합계 : " + sum);
+			
+		}
+		
+		
+	}
 		
 		
 
-}
